@@ -1,0 +1,7 @@
+D:\programes\7semestr\RATPPS\My\laba1\laba1\bin\Debug\laba1.exe.config
+D:\programes\7semestr\RATPPS\My\laba1\laba1\bin\Debug\laba1.exe
+D:\programes\7semestr\RATPPS\My\laba1\laba1\bin\Debug\laba1.pdb
+D:\programes\7semestr\RATPPS\My\laba1\laba1\obj\Debug\laba1.csprojAssemblyReference.cache
+D:\programes\7semestr\RATPPS\My\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+D:\programes\7semestr\RATPPS\My\laba1\laba1\obj\Debug\laba1.exe
+D:\programes\7semestr\RATPPS\My\laba1\laba1\obj\Debug\laba1.pdb
